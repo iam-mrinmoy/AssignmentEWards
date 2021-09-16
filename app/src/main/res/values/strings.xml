@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment-EWards</string>
+
+    <string name="under_dev_text">Under Development</string>
+    <string name="bad_api_response_head">Something went wrong.</string>
+    <string name="no_internet_txt_head">No internet connection</string>
+</resources>
